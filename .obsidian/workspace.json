@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "29c0bbdddb3866fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c6a7176c7d8426f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f94d2d2ca45e5086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/面试/20260518/2026-05-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-19"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df7a524f16025de3",
+    "type": "split",
+    "children": [
+      {
+        "id": "72413eec4d8f46e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3531ff36c0ea9c5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "40b3c8015050d298",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "11f92487d4045230",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "47685537cbba4012",
+    "type": "split",
+    "children": [
+      {
+        "id": "74429af8022799f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7f9bbe68087e2af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/提示词/继续沉淀.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "继续沉淀 的反向链接列表"
+            }
+          },
+          {
+            "id": "abdeafaba81928f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/提示词/继续沉淀.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "继续沉淀 的出链列表"
+            }
+          },
+          {
+            "id": "cf3fc87341e546bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "32be28e4ba8e6990",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "49d6c4c9f93666d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/提示词/继续沉淀.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "继续沉淀 的大纲"
+            }
+          },
+          {
+            "id": "af30244a5021c806",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3531ff36c0ea9c5a",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "raw/面试/20260518/2026-05-19.md",
+    "raw/面试/20260518/面试流程梳理2026-05-18.md",
+    "wiki/Watermark.md",
+    "raw/未命名 1",
+    "raw/未命名",
+    "wiki/出访与入访.md",
+    "wiki/方向判断速查表.md",
+    "wiki/业务方向.md",
+    "wiki/网络中的方向（来源总结）.md",
+    "wiki/链路方向.md",
+    "wiki/复杂事件处理（CEP）.md",
+    "wiki/DPI.md",
+    "wiki/流方向.md",
+    "raw/业务核心/网络中的方向.pdf",
+    "raw/项目管理/sino项目.png",
+    "raw/提示词/优化过时的API.md",
+    "raw/提示词/提问wiki.md",
+    "raw/提示词/继续沉淀.md",
+    "raw/项目资料/Flink/boyOtt/OTT通话关联脑图-文字版.md",
+    "raw/项目资料/Flink/boyOtt/OTT通话关联脑图.png",
+    "raw/项目资料/SJWA/优雅一键关停服务.md",
+    "raw/项目资料/SJWA/新需求 2026-05-18.md",
+    "raw/项目资料/Flink/boyOtt",
+    "raw/项目资料/Flink",
+    "raw/项目资料/SJWA",
+    "raw/面试/初中级面试.md",
+    "raw/面试/20260518",
+    "wiki/Flink CEP 实战（来源总结）.md",
+    "raw/项目资料",
+    "wiki/Flink CEP.md",
+    "wiki/Flink.md",
+    "wiki/事件时间（Event Time）.md",
+    "项目资料",
+    "raw/Flink CEP 实战：5分钟学会复杂事件处理，让数据流“动”出智能！.md",
+    "raw/项目管理",
+    "raw/设备及性能/内存查看.md",
+    "raw/设备及性能/linux常用命令.md",
+    "raw/clickhouse/优化后.png",
+    "raw/clickhouse/优化前.png",
+    "raw/clickhouse/e85e3ad2d43f14be1c3fe96acd61a899.jpg",
+    "raw/clickhouse/87063deabfd42f6a22aa42b6954b3d70.jpg",
+    "raw/clickhouse/889c4441c89aba4c1983308ea7a664dd.jpg",
+    "raw/Flink管理平台-1777840471.png"
+  ]
+}

@@ -1,0 +1,7 @@
+配置：
+
+max_server_memory_usage
+
+max_server_memory_usage_to_ram_ratio
+
+max_memory_usage
