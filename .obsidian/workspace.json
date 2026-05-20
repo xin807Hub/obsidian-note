@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/面试/20260518/2026-05-19.md",
+                "file": "raw/面试/面试流程优化-始于20260518/2026-05-19-优秀问答版.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-19"
+              "title": "2026-05-19-优秀问答版"
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,14 +195,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af30244a5021c806",
+  "active": "f94d2d2ca45e5086",
   "lastOpenFiles": [
+    "raw/面试/面试流程优化-始于20260518/2026-05-19.md",
+    "raw/AI Agent 工作流学习/Claude Code + BrowserAct，夯爆了！一句话让 AI 帮你操控浏览器。.md",
+    "raw/AI Agent 工作流学习",
+    "raw/面试/面试流程优化-始于20260518/2026-05-19-优秀问答版.md",
     "未命名.canvas",
-    "raw/面试/20260518/2026-05-19.md",
-    "raw/面试/20260518/面试流程梳理2026-05-18.md",
+    "raw/面试/面试流程优化-始于20260518/面试流程梳理2026-05-18.md",
     "wiki/Watermark.md",
     "raw/未命名 1",
-    "raw/未命名",
     "wiki/出访与入访.md",
     "wiki/方向判断速查表.md",
     "wiki/业务方向.md",
@@ -223,7 +226,7 @@
     "raw/项目资料/Flink",
     "raw/项目资料/SJWA",
     "raw/面试/初中级面试.md",
-    "raw/面试/20260518",
+    "raw/面试/面试流程优化-始于20260518",
     "wiki/Flink CEP 实战（来源总结）.md",
     "raw/项目资料",
     "wiki/Flink CEP.md",
@@ -233,7 +236,6 @@
     "raw/Flink CEP 实战：5分钟学会复杂事件处理，让数据流“动”出智能！.md",
     "raw/项目管理",
     "raw/设备及性能/内存查看.md",
-    "raw/设备及性能/linux常用命令.md",
     "raw/clickhouse/优化后.png",
     "raw/clickhouse/优化前.png",
     "raw/clickhouse/e85e3ad2d43f14be1c3fe96acd61a899.jpg",
