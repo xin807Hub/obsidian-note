@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c6a7176c7d8426f",
+        "id": "e9e2dca457e57b88",
         "type": "tabs",
         "children": [
           {
-            "id": "f94d2d2ca45e5086",
+            "id": "db7ce5166c6a2f26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/面试/面试流程优化-始于20260518/2026-05-19 优秀问答复盘.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-05-19 优秀问答复盘"
+              "title": "新标签页"
             }
           }
         ]
@@ -180,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,11 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f94d2d2ca45e5086",
+  "active": "db7ce5166c6a2f26",
   "lastOpenFiles": [
+    "raw/面试/面试流程优化-始于20260518/2026-05-19 优秀问答复盘.md",
     "raw/面试/面试流程优化-始于20260518/2026-05-19 面试原始流程.md",
     "raw/面试/面试流程优化-始于20260518/面试流程梳理2026-05-18.md",
-    "raw/面试/面试流程优化-始于20260518/2026-05-19 优秀问答复盘.md",
     "raw/AI Agent 工作流学习/Claude Code + BrowserAct，夯爆了！一句话让 AI 帮你操控浏览器。.md",
     "raw/AI Agent 工作流学习",
     "未命名.canvas",
